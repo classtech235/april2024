@@ -14,3 +14,9 @@ Course        -Java with Selenium
 Mobile no   - 8074678921
 Mail id        - divya@gmail.com
 -------------------------------------------
+Name 		- Rajeswari kotluru
+Course		- java, selenium
+Mobile number 	- 7015451234
+mail id 	- rajikotluru@outlook.com
+
+-----------------------------------------------------------

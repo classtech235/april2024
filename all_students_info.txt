@@ -9,3 +9,8 @@ Course                  -  Java with selenium
 Mobile Num           -8142467645
 Mail id                   - subba@gmail.com
 ..........................................................
+Name          -Divya Vani
+Course        -Java with Selenium
+Mobile no   - 8074678921
+Mail id        - divya@gmail.com
+-------------------------------------------

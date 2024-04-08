@@ -3,7 +3,7 @@ Course 		- Python Automation with Selenium
 Mobile no	- 7207206306
 Mail id     	- Jagadeeshpeddi1254@gmail.com
 Hobbies    	- Playing volleyball
-....................................................................
+..........................................................
 Name                    -Suba Reddy
 Course                  -  Java with selenium
 Mobile Num           -8142467645
@@ -13,7 +13,7 @@ Name          -Divya Vani
 Course        -Java with Selenium
 Mobile no   - 8074678921
 Mail id        - divya@gmail.com
--------------------------------------------
+----------------------------------------------------------
 Name 		- Rajeswari kotluru
 Course		- java, selenium
 Mobile number 	- 7015451234
@@ -24,3 +24,8 @@ NAME           : Salma
 Course         : java selenium
 Mobile number  : 9999999999
 mail id        : salma@gmail.com
+-----------------------------------------------------------
+NAME           : Nikhila 
+Course         : java selenium
+Mobile number  : 9876543210
+mail id        : nikhila@gmail.com

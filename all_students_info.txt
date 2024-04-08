@@ -29,3 +29,14 @@ NAME           : Nikhila
 Course         : java selenium
 Mobile number  : 9876543210
 mail id        : nikhila@gmail.com
+
+---------------------------------------------------------
+NAME : Prasanna Lakshmi
+Course: Python with Selenium
+MObile No: 7276088228
+Mail ID: prasanna.bellary@gmail.com
+
+------------------------------------------------------------------
+
+
+

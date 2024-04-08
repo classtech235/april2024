@@ -1,0 +1,4 @@
+Name 		- Salma
+Course		- java selenium
+Mobile number 	- 9999999999
+mail id 	- salma@gmail.com

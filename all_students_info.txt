@@ -20,3 +20,7 @@ Mobile number 	- 7015451234
 mail id 	- rajikotluru@outlook.com
 
 -----------------------------------------------------------
+NAME           : Salma
+Course         : java selenium
+Mobile number  : 9999999999
+mail id        : salma@gmail.com
